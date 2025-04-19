@@ -29,13 +29,16 @@ The objective is to uncover actionable insights that could help improve customer
 
 ## 🔗 How to Use This Project
 
-1. Open the notebook via Google Colab:  
-   👉 [Click here to open in Colab](https://colab.research.google.com/drive/YOUR_SHARED_FILE_ID)
+1. The code for the project can be found in the attached FoodHub_Analysis.ipynb
 
-2. Download the dataset used in the project:  
-   Download the file foodhub_order.csv
+2. Dataset used in the project is in the attached foodhub_order.csv
+   
+3. Upload the file foodhub_order.csv to your own googlel drive.
+   Edit the notebook, modify the below code to map the fiel as input
+   df = pd.read_csv('/content/drive/MyDrive/AIML/foodhub_order.csv')
+   
 
-3. Follow the notebook which includes:
+4. Follow the notebook which includes:
    - Code cells for data exploration and visualization
    - Markdown explanations of findings and techniques
    - Suggestions for business improvements
