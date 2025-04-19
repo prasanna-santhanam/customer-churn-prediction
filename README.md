@@ -1,4 +1,4 @@
-# customer-churn-prediction
+# customer-churn-prediction - Food hub
 # 🍽️ FoodHub Data Analysis Project
 
 ## 📌 Overview
