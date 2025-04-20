@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project presents an exploratory and analytical study of food ordering patterns from **FoodHub**, a fictional food delivery platform. The analysis focuses on customer behavior, cuisine popularity, delivery performance, and potential business insights.
+This project presents an exploratory and analytical study of food ordering patterns from a company called **FoodHub** (similar to Uber eats, Zomato etc), a fictional food delivery platform. The analysis focuses on customer behavior, cuisine popularity, delivery performance, and potential business insights.
 
 The objective is to uncover actionable insights that could help improve customer experience, drive repeat orders, and optimize business strategy.
 
@@ -31,11 +31,11 @@ The objective is to uncover actionable insights that could help improve customer
 
 1. The code for the project can be found in the attached FoodHub_Analysis.ipynb
 
-2. Dataset used in the project is in the attached foodhub_order.csv
+2. The dataset used in the project is in the attached foodhub_order.csv
    
-3. Upload the file foodhub_order.csv to your own googlel drive.
-   Edit the notebook, modify the below code to map the fiel as input
-   df = pd.read_csv('/content/drive/MyDrive/AIML/foodhub_order.csv')
+3. Upload the file foodhub_order.csv to your own google drive.
+   Edit the notebook, modify the below code to map the file as input
+   **df = pd.read_csv('/content/drive/MyDrive/AIML/foodhub_order.csv')**
    
 
 4. Follow the notebook which includes:
@@ -47,7 +47,7 @@ The objective is to uncover actionable insights that could help improve customer
 
 ## ✅ Note
 
-This project is part of my AI learning journey under the Post Graduate Program in AI Applications at the University of Texas, Austin. It demonstrates my ability to analyze real-world datasets and deliver meaningful insights.
+This project is part of my AI learning journey under the Post Graduate Program in AI Applications at the University of Texas, Austin. 
 
 ---
 
